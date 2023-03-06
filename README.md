@@ -69,7 +69,6 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
